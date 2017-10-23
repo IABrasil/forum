@@ -1,2 +1,4 @@
 # forum
-Usamos as idades para dúvidas e discussões sobre Inteligencia Artificial
+Usamos as issues para dúvidas e discussões sobre Inteligencia Artificial.
+
+Links e materiais podem ser compartilhados via pull-request.
